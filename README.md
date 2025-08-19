@@ -1,2 +1,3 @@
-# networksecurity
-E2E datascience project on networksecurity
+# Network security
+
+E2E datascience project on Network Security
