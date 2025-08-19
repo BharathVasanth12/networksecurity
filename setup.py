@@ -15,7 +15,7 @@ def get_requirements() -> list[str]:
     lib_name_list:List[str] = []
     try:
         with open('requirements.txt', 'r') as req_file:
-            libraries = req_file.readlines()
+            libraries = req_file.readlines() req_file.read
             for library in libraries:
                 lib_name = library.strip()
                 if lib_name and lib_name != '-e .':
