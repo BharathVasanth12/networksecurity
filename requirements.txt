@@ -3,3 +3,6 @@ pandas
 numpy
 pymongo
 mlflow<2.0
+certifi
+
+-e .
