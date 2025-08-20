@@ -1,8 +1,9 @@
 python-dotenv
 pandas
 numpy
-pymongo
 mlflow<2.0
 certifi
+pymongo[srv]
+pymongo
 
 -e .
