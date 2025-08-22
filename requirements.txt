@@ -8,5 +8,10 @@ pymongo
 scikit-learn
 dill
 pyyaml
+dagshub
+setuptools==68.0.0
+fastapi
+uvicorn
+python-multipart
 
 -e .

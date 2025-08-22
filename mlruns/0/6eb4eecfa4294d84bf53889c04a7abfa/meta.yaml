@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavasan/learning/networksecurity/mlruns/0/6eb4eecfa4294d84bf53889c04a7abfa/artifacts
+end_time: 1755762255222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eb4eecfa4294d84bf53889c04a7abfa
+run_name: caring-lynx-200
+run_uuid: 6eb4eecfa4294d84bf53889c04a7abfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755762252823
+status: 3
+tags: []
+user_id: bhavasan
